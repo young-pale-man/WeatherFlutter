@@ -19,7 +19,7 @@ The application is a screen displaying the current location of the device (local
 the weather there and the air temperature. There is a geolocation update button and a 
 button to go to the weather search screen in a locality by the entered name.
 
-### Functionality🕹
+## Functionality🕹
 
 For the application to work, the user must provide permission to use the device's geolocation. 
 This can be done when logging into the application for the first time or using the device settings.
